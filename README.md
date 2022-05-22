@@ -33,11 +33,22 @@ GIVEN a functional Express.js API
 
 
 
+https://user-images.githubusercontent.com/99042050/169711264-03d302d4-da2b-45a6-af21-6855b249088a.mp4
+
+
+
 - Categories
+
+
+https://user-images.githubusercontent.com/99042050/169711266-b3a046bf-9444-4ffd-92a6-cd54946a08f4.mp4
 
 
 
 - Products
+
+
+https://user-images.githubusercontent.com/99042050/169711272-476ca3c7-ef96-4788-ae4c-0d474085be8c.mp4
+
 
 ## Database Models
 
